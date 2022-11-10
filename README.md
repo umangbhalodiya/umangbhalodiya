@@ -1,5 +1,5 @@
- 
 
+<p align="center"><img align="center" height="250px" width="250px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
 <p align="center"> 
 <h1 align="center">Hey There 👋, I'm Umang aka Dev_Uvi</h1>
 <h3 align="center">A Designer, Full-Stack Web Developer, and Learning More...</h3>
@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://twitter.com/umangbhalodiya6" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/umangbhalodiya6?color=%231DA1F2&label=Follow%20%40umangbhalodiya6&logo=twitter&style=flat-square"></a> 
 <img src="https://komarev.com/ghpvc/?username=umangbhalodiya6&label=Profile%20views&color=e0245e&style=flat-square" alt="umangbhalodiya6" /></p>
 <br/>
-
+ 
 ---
 
 <br/>
