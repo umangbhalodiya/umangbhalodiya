@@ -1,5 +1,6 @@
+ 
 
-
+<p align="center"> 
 <h1 align="center">Hey There 👋, I'm Umang aka Dev_Uvi</h1>
 <h3 align="center">A Designer, Full-Stack Web Developer, and Learning More...</h3>
 <br/>
@@ -92,6 +93,22 @@
 ---
 
 &nbsp;
+
+ 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+<br/>
+
+<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Vaibhav Solanki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=umangbhalodiya&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="umangbhalodiya" /></p>
 
