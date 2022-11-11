@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" height="250px" width="250px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
+<p align="center"><img align="center" height="400px" width="400px" src="https://dev-items.s3.ap-south-1.amazonaws.com/flame-remote-working.gif"/></p>
 <p align="center"> 
 <h1 align="center">Hey There 👋, I'm Umang aka Dev_Uvi</h1>
 <h3 align="center">A Designer, Full-Stack Web Developer, and Learning More...</h3>
@@ -123,6 +123,9 @@
 &nbsp;
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangbhalodiya&theme=synthwave&hide_border=true&ring=de3163&fire=de3163&stroke=de3163&currStreakNum=de3163&dates=de3163&currStreakLabel=de3163&sideNums=de3163&sideLabels=de3163" alt="umangbhalodiya" /></p>
+
+<p align="center"><img align="center" height="250px" width="250px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
+
 
 <!--
 credits:
