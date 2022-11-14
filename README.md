@@ -104,8 +104,10 @@
 ---
 
 <br/>
+ 
 
-<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Vaibhav Solanki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Vaibhav Solanki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
 
 <br/>
 <br/>
