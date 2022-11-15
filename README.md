@@ -128,7 +128,6 @@
 
 <p align="center"><img align="center" height="250px" width="250px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
 
-
 <!--
 credits:
 https://simpleicons.org
