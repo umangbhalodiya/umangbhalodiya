@@ -31,6 +31,21 @@
 
 ---
 
+
+<h2 align="center">My Apps</h3>
+<h3><a href="https://eyecon.netlify.app">Eyecon</a></h4> 
+<h3><a href="https://mappitapp.netlify.app">Mappit</a></h4> 
+<h3><a href="https://typier.netlify.app">Typier</a></h4> 
+<h3><a href="https://daydark.netlify.app">DayDark</a></h4> 
+<h3><a href="https://spacetheme.netlify.app">Space-Theme</a></h4> 
+<h3><a href="https://threebg.netlify.app">Three-BG</a></h4> 
+<h3><a href="https://threeglobe.netlify.app">Three-Globe</a></h4> 
+<h3><a href="https://calculor.netlify.app">Calculor</a></h4> 
+<h3><a href="https://custslider.netlify.app">Cust-Slider</a></h4> 
+<br/>
+
+---
+
 <br/>
 
 <h3 align="left">Connect with me:</h3>
