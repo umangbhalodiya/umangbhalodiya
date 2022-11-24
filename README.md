@@ -122,12 +122,12 @@
  
 
 
-<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Vaibhav Solanki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
+<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Umang Bhalodiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
 
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=umangbhalodiya&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="umangbhalodiya" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=umangbhalodiya&column=2&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="umangbhalodiya" /></p>
 
 &nbsp;
 
