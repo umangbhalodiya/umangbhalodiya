@@ -12,7 +12,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Personal Portfolio Website](https://umangbhalodiya.in)
+- 🔭 I’m currently working on Mini apps & [Personal Portfolio Website](https://umangbhalodiya.in)
 
 - 🌱 I’m currently learning **Everything😊, but particularly ThreeJS and Web3 Technologies**
 
