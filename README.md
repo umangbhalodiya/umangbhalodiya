@@ -1,7 +1,7 @@
 
 <p align="center"><img align="center" height="400px" width="400px" src="https://dev-items.s3.ap-south-1.amazonaws.com/flame-remote-working.gif"/></p>
 <p align="center"> 
-<h1 align="center">Hey There 👋, I'm Umang aka Dev_Uvi</h1>
+<h1 align="center">Hey There 👋, I'm Umang aka Dev_Umang</h1>
 <h3 align="center">A Designer, Full-Stack Web Developer, and Learning More...</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/umangbhalodiya6" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/umangbhalodiya6?color=%231DA1F2&label=Follow%20%40umangbhalodiya6&logo=twitter&style=flat-square"></a> 
