@@ -119,10 +119,8 @@
 ---
 
 <br/>
- 
-
-
-<a href="https://github.com/umangbhalodiya/github-readme-activity-graph"><img alt="Umang Bhalodiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
+  
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=umangbhalodiya&theme=dracula"><img alt="Umang Bhalodiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
 
 <br/>
 <br/>
