@@ -33,9 +33,9 @@
 
 
 <h2 align="center">My Apps</h3>
-<h3><a href="https://eyecon.netlify.app">Eyecon</a></h4> 
-<h3><a href="https://mappitapp.netlify.app">Mappit</a></h4> 
-<h3><a href="https://typier.netlify.app">Typier</a></h4> 
+<h3><a href="https://eyecon.umangbhalodiya.in">Eyecon</a></h4> 
+<h3><a href="https://mapcy.umangbhalodiya.in">Mappit</a></h4> 
+<h3><a href="https://typier.umangbhalodiya.in">Typier</a></h4> 
 <h3><a href="https://daydark.netlify.app">DayDark</a></h4> 
 <h3><a href="https://spacetheme.netlify.app">Space-Theme</a></h4> 
 <h3><a href="https://threebg.netlify.app">Three-BG</a></h4> 
