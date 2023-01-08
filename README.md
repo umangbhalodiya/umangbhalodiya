@@ -8,8 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=umangbhalodiya6&label=Profile%20views&color=e0245e&style=flat-square" alt="umangbhalodiya6" /></p>
 <br/>
  
----
-
 <br/>
 
 - 🔭 I’m currently working on Mini apps & [Personal Portfolio Website](https://umangbhalodiya.in)
@@ -23,15 +21,9 @@
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/umang-bhalodiya-06a8b8202) OR [Twitter](https://twitter.com/umangbhalodiya6)
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/umang-bhalodiya-06a8b8202/)
-<!--
-- ⚡ Fun Fact **I don't talk much, I let my work do all the talking**
-  -->
 
 <br/>
-
----
-
-
+ 
 <h2 align="center">My Apps</h3>
 <h3><a href="https://eyecon.umangbhalodiya.in">Eyecon</a></h4> 
 <h3><a href="https://mapcy.umangbhalodiya.in">Mappit</a></h4> 
@@ -44,8 +36,6 @@
 <h3><a href="https://custslider.netlify.app">Cust-Slider</a></h4> 
 <br/>
 
----
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -57,9 +47,7 @@
 <a href="https://instagram.com/umangbhalodiya" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <br/>
-
----
-
+ 
 <br/>
 
 <h3 align="left">Languages:</h3>
@@ -104,20 +92,11 @@
 <img alt="AWS" src="https://img.shields.io/badge/aws%20-%23F24E1E?&style=for-the-badge&logo=aws&logoColor=white"/>
  </p>
 <br/>
-
----
-
+ 
 &nbsp;
 
- 
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
+ 
 <br/>
   
 <a href="https://github-readme-activity-graph.cyclic.app/graph?username=umangbhalodiya&theme=dracula"><img alt="Umang Bhalodiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=umangbhalodiya&theme=react-dark&hide_border=true&area=true" /></a>
