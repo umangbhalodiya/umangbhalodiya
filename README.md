@@ -25,6 +25,7 @@
 <br/>
  
 <h2 align="center">My Apps</h3>
+<h3><a href="https://ai.umangbhalodiya.in">AI-Friend</a></h4> 
 <h3><a href="https://eyecon.umangbhalodiya.in">Eyecon</a></h4> 
 <h3><a href="https://mapcy.umangbhalodiya.in">Mappit</a></h4> 
 <h3><a href="https://typier.umangbhalodiya.in">Typier</a></h4> 
