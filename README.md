@@ -25,16 +25,17 @@
 <br/>
  
 <h2 align="center">My Apps</h3>
-<h3><a href="https://ai.umangbhalodiya.in">AI-Friend</a></h4> 
-<h3><a href="https://eyecon.umangbhalodiya.in">Eyecon</a></h4> 
-<h3><a href="https://mapcy.umangbhalodiya.in">Mappit</a></h4> 
-<h3><a href="https://typier.umangbhalodiya.in">Typier</a></h4> 
-<h3><a href="https://daydark.umangbhalodiya.in">DayDark</a></h4> 
-<h3><a href="https://spacetheme.netlify.app">Space-Theme</a></h4> 
-<h3><a href="https://threebg.netlify.app">Three-BG</a></h4> 
-<h3><a href="https://threeglobe.netlify.app">Three-Globe</a></h4> 
-<h3><a href="https://calculor.netlify.app">Calculor</a></h4> 
-<h3><a href="https://custslider.netlify.app">Cust-Slider</a></h4> 
+<h3><p align="center"><a href="https://ai.umangbhalodiya.in">AI-Friend</a></h4></p> 
+<h3><p align="center"><a  href="https://eyecon.umangbhalodiya.in">Eyecon</a></p></h4> 
+<h3><p align="center"><a   href="https://mapcy.umangbhalodiya.in">Mappit</a></p></h4> 
+<h3><p align="center"><a   href="https://typier.umangbhalodiya.in">Typier</a></p></h4> 
+<h3><p align="center"><a   href="https://daydark.umangbhalodiya.in">DayDark</a></p></h4> 
+<h3><p align="center"><a   href="https://spacetheme.netlify.app">Space-Theme</a></p></h4> 
+<h3><p align="center"><a   href="https://threebg.netlify.app">Three-BG</a></p></h4> 
+<h3><p align="center"><a   href="https://threeglobe.netlify.app">Three-Globe</a></p></h4> 
+<h3><p align="center"><a   href="https://calculor.netlify.app">Calculor</a></p></h4> 
+<h3><p align="center"><a   href="https://custslider.netlify.app">Cust-Slider</a></p></h4> 
+<h3><p align="center"><a   href="https://razorpayreact.umangbhalodiua.in">Razorpay-React</a></p></h4> 
 <br/>
 
 <br/>
@@ -47,9 +48,6 @@
 <a href="https://www.linkedin.com/in/umang-bhalodiya-06a8b8202/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/umangbhalodiya" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<br/>
- 
-<br/>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
