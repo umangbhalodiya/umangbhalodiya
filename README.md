@@ -83,7 +83,7 @@
 <p align="left">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%230E1E25?&style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img alt="Meta" src="https://img.shields.io/badge/meta-%23007FFF?&style=for-the-badge&logo=meta&logoColor=0567E1"/>
+<img alt="Meta" src="https://img.shields.io/badge/meta-%23007FFF?&style=for-the-badge&logo=meta&logoColor=ffffff"/>
 <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FCC624?&style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="vite" src="https://img.shields.io/badge/vite%20-%23646cff?&style=for-the-badge&logo=vite&logoColor=white" />
