@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are available at [umangbhalodiya.in](https://www.umangbhalodiya.in/#portfolio) OR [GitHub Repositories](https://github.com/umangbhalodiya?tab=repositories)
 
-- 💬 Ask me about **ReactJS, NextJS and NodeJs**
+- 💬 Ask me about **ReactJS, NextJS, ViteJS, ElectronJS and NodeJs**
 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/umang-bhalodiya-06a8b8202) OR [Twitter](https://twitter.com/umangbhalodiya6)
 
